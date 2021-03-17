@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ButtonsTextViewEditText</string>
+    <string name="weight_title">What is your weight on</string>
+    <string name="hint_weight">Enter your weight</string>
+    <string name="show_weight">show weight</string>
+</resources>
